@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <a href="https://anythingllm.com"><img src="https://github.com/Mintplex-Labs/anything-llm/blob/master/images/wordmark.png?raw=true" alt="AnythingLLM logo"></a>
+  <a href="https://anythingllm.com"><img src="https://github.com/Mintplex-Labs/anything-llm/blob/master/images/wordmark.png?raw=true" alt="OnesLLM logo"></a>
 </p>
 
 <div align='center'>
@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-<b>AnythingLLM:</b> Aradığınız hepsi bir arada yapay zeka uygulaması.<br />
+<b>OnesLLM:</b> Aradığınız hepsi bir arada yapay zeka uygulaması.<br />
 Belgelerinizle sohbet edin, yapay zeka ajanlarını kullanın, son derece özelleştirilebilir, çok kullanıcılı ve zahmetsiz kurulum!
 </p>
 
@@ -33,9 +33,9 @@ Belgelerinizle sohbet edin, yapay zeka ajanlarını kullanın, son derece özell
 </p>
 
 
-<p align="center">  
-👉 Masaüstü için AnythingLLM (Mac, Windows ve Linux)! <a href="https://anythingllm.com/download" target="_blank"> Şimdi İndir</a>  
-</p>  
+<p align="center">
+👉 Masaüstü için OnesLLM (Mac, Windows ve Linux)! <a href="https://anythingllm.com/download" target="_blank"> Şimdi İndir</a>
+</p>
 
 Herhangi bir belgeyi, kaynağı veya içeriği sohbet sırasında herhangi bir büyük dil modelinin referans olarak kullanabileceği bir bağlama dönüştürmenizi sağlayan tam kapsamlı bir uygulama. Bu uygulama, kullanmak istediğiniz LLM veya Vektör Veritabanını seçmenize olanak tanırken, çok kullanıcılı yönetim ve yetkilendirme desteği de sunar.
 
@@ -48,29 +48,29 @@ Herhangi bir belgeyi, kaynağı veya içeriği sohbet sırasında herhangi bir b
 
 </details>
 
-### Ürün Genel Bakışı  
+### Ürün Genel Bakışı
 
-AnythingLLM, ticari hazır büyük dil modellerini veya popüler açık kaynak LLM'leri ve vektör veritabanı çözümlerini kullanarak, hiçbir ödün vermeden özel bir ChatGPT oluşturmanıza olanak tanıyan tam kapsamlı bir uygulamadır. Bu uygulamayı yerel olarak çalıştırabilir veya uzaktan barındırarak sağladığınız belgelerle akıllı sohbetler gerçekleştirebilirsiniz.  
+OnesLLM, ticari hazır büyük dil modellerini veya popüler açık kaynak LLM'leri ve vektör veritabanı çözümlerini kullanarak, hiçbir ödün vermeden özel bir ChatGPT oluşturmanıza olanak tanıyan tam kapsamlı bir uygulamadır. Bu uygulamayı yerel olarak çalıştırabilir veya uzaktan barındırarak sağladığınız belgelerle akıllı sohbetler gerçekleştirebilirsiniz.
 
-AnythingLLM, belgelerinizi **"çalışma alanları" (workspaces)** adı verilen nesnelere ayırır. Bir çalışma alanı, bir sohbet dizisi gibi çalışır ancak belgelerinizi kapsülleyen bir yapı sunar. Çalışma alanları belgeleri paylaşabilir, ancak birbirleriyle iletişim kurmaz, böylece her çalışma alanının bağlamını temiz tutabilirsiniz.  
+OnesLLM, belgelerinizi **"çalışma alanları" (workspaces)** adı verilen nesnelere ayırır. Bir çalışma alanı, bir sohbet dizisi gibi çalışır ancak belgelerinizi kapsülleyen bir yapı sunar. Çalışma alanları belgeleri paylaşabilir, ancak birbirleriyle iletişim kurmaz, böylece her çalışma alanının bağlamını temiz tutabilirsiniz.
 
-## AnythingLLM’in Harika Özellikleri  
+## OnesLLM’in Harika Özellikleri
 
-- 🆕 [**Özel Yapay Zeka Ajanları**](https://docs.anythingllm.com/agent/custom/introduction)  
-- 🆕 [**Kod yazmadan AI Ajanı oluşturma aracı**](https://docs.anythingllm.com/agent-flows/overview)  
-- 🖼️ **Çoklu-mod desteği (hem kapalı kaynak hem de açık kaynak LLM'ler!)**  
-- 👤 Çok kullanıcılı destek ve yetkilendirme _(Yalnızca Docker sürümünde)_  
-- 🦾 Çalışma alanı içinde ajanlar (web'de gezinme vb.)  
-- 💬 [Web sitenize gömülebilir özel sohbet aracı](https://github.com/Mintplex-Labs/anythingllm-embed/blob/main/README.md) _(Yalnızca Docker sürümünde)_  
-- 📖 Çoklu belge türü desteği (PDF, TXT, DOCX vb.)  
-- Sade ve kullanışlı sohbet arayüzü, sürükle-bırak özelliği ve net kaynak gösterimi.  
-- %100 bulut konuşlandırmaya hazır.  
-- [Tüm popüler kapalı ve açık kaynak LLM sağlayıcılarıyla](#supported-llms-embedder-models-speech-models-and-vector-databases) uyumlu.  
-- Büyük belgeleri yönetirken zaman ve maliyet tasarrufu sağlayan dahili optimizasyonlar.  
-- Özel entegrasyonlar için tam kapsamlı Geliştirici API’si.  
+- 🆕 [**Özel Yapay Zeka Ajanları**](https://docs.anythingllm.com/agent/custom/introduction)
+- 🆕 [**Kod yazmadan AI Ajanı oluşturma aracı**](https://docs.anythingllm.com/agent-flows/overview)
+- 🖼️ **Çoklu-mod desteği (hem kapalı kaynak hem de açık kaynak LLM'ler!)**
+- 👤 Çok kullanıcılı destek ve yetkilendirme _(Yalnızca Docker sürümünde)_
+- 🦾 Çalışma alanı içinde ajanlar (web'de gezinme vb.)
+- 💬 [Web sitenize gömülebilir özel sohbet aracı](https://github.com/Mintplex-Labs/anythingllm-embed/blob/main/README.md) _(Yalnızca Docker sürümünde)_
+- 📖 Çoklu belge türü desteği (PDF, TXT, DOCX vb.)
+- Sade ve kullanışlı sohbet arayüzü, sürükle-bırak özelliği ve net kaynak gösterimi.
+- %100 bulut konuşlandırmaya hazır.
+- [Tüm popüler kapalı ve açık kaynak LLM sağlayıcılarıyla](#supported-llms-embedder-models-speech-models-and-vector-databases) uyumlu.
+- Büyük belgeleri yönetirken zaman ve maliyet tasarrufu sağlayan dahili optimizasyonlar.
+- Özel entegrasyonlar için tam kapsamlı Geliştirici API’si.
 - Ve çok daha fazlası... Kurup keşfedin!
 
-### Desteklenen LLM'ler, Embedding Modelleri, Konuşma Modelleri ve Vektör Veritabanları  
+### Desteklenen LLM'ler, Embedding Modelleri, Konuşma Modelleri ve Vektör Veritabanları
 
 **Büyük Dil Modelleri (LLMs):**
 
@@ -104,7 +104,7 @@ AnythingLLM, belgelerinizi **"çalışma alanları" (workspaces)** adı verilen 
 
 **Embedder modelleri:**
 
-- [AnythingLLM Native Embedder](/server/storage/models/README.md) (default)
+- [OnesLLM Native Embedder](/server/storage/models/README.md) (default)
 - [OpenAI](https://openai.com)
 - [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - [LocalAi (all)](https://localai.io/)
@@ -114,7 +114,7 @@ AnythingLLM, belgelerinizi **"çalışma alanları" (workspaces)** adı verilen 
 
 **Ses Transkripsiyon Modelleri:**
 
-- [AnythingLLM Built-in](https://github.com/Mintplex-Labs/anything-llm/tree/master/server/storage/models#audiovideo-transcription) (default)
+- [OnesLLM Built-in](https://github.com/Mintplex-Labs/anything-llm/tree/master/server/storage/models#audiovideo-transcription) (default)
 - [OpenAI](https://openai.com/)
 
 **TTS (text-to-speech) desteği:**
@@ -141,20 +141,20 @@ AnythingLLM, belgelerinizi **"çalışma alanları" (workspaces)** adı verilen 
 - [Milvus](https://milvus.io)
 - [Zilliz](https://zilliz.com)
 
-### Teknik Genel Bakış  
+### Teknik Genel Bakış
 
-Bu monorepo üç ana bölümden oluşmaktadır:  
+Bu monorepo üç ana bölümden oluşmaktadır:
 
-- **`frontend`**: ViteJS + React tabanlı bir ön yüz, LLM'in kullanabileceği tüm içeriği kolayca oluşturup yönetmenizi sağlar.  
-- **`server`**: NodeJS ve Express tabanlı bir sunucu, tüm etkileşimleri yönetir ve vektör veritabanı işlemleri ile LLM entegrasyonlarını gerçekleştirir.  
-- **`collector`**: Kullanıcı arayüzünden gelen belgeleri işleyen ve ayrıştıran NodeJS Express tabanlı bir sunucu.  
-- **`docker`**: Docker kurulum talimatları, derleme süreci ve kaynak koddan nasıl derleneceğine dair bilgiler içerir.  
-- **`embed`**: [Web gömme widget’ı](https://github.com/Mintplex-Labs/anythingllm-embed) oluşturma ve entegrasyonu için alt modül.  
+- **`frontend`**: ViteJS + React tabanlı bir ön yüz, LLM'in kullanabileceği tüm içeriği kolayca oluşturup yönetmenizi sağlar.
+- **`server`**: NodeJS ve Express tabanlı bir sunucu, tüm etkileşimleri yönetir ve vektör veritabanı işlemleri ile LLM entegrasyonlarını gerçekleştirir.
+- **`collector`**: Kullanıcı arayüzünden gelen belgeleri işleyen ve ayrıştıran NodeJS Express tabanlı bir sunucu.
+- **`docker`**: Docker kurulum talimatları, derleme süreci ve kaynak koddan nasıl derleneceğine dair bilgiler içerir.
+- **`embed`**: [Web gömme widget’ı](https://github.com/Mintplex-Labs/anythingllm-embed) oluşturma ve entegrasyonu için alt modül.
 - **`browser-extension`**: [Chrome tarayıcı eklentisi](https://github.com/Mintplex-Labs/anythingllm-extension) için alt modül.
 
-## 🛳 Kendi Sunucunuzda Barındırma  
+## 🛳 Kendi Sunucunuzda Barındırma
 
-Mintplex Labs ve topluluk, AnythingLLM'i yerel olarak çalıştırmak için çeşitli dağıtım yöntemleri, betikler ve şablonlar sunmaktadır. Aşağıdaki tabloya göz atarak tercih ettiğiniz ortamda nasıl dağıtım yapabileceğinizi öğrenebilir veya otomatik dağıtım seçeneklerini keşfedebilirsiniz.
+Mintplex Labs ve topluluk, OnesLLM'i yerel olarak çalıştırmak için çeşitli dağıtım yöntemleri, betikler ve şablonlar sunmaktadır. Aşağıdaki tabloya göz atarak tercih ettiğiniz ortamda nasıl dağıtım yapabileceğinizi öğrenebilir veya otomatik dağıtım seçeneklerini keşfedebilirsiniz.
 | Docker | AWS | GCP | Digital Ocean | Render.com |
 |----------------------------------------|----|-----|---------------|------------|
 | [![Deploy on Docker][docker-btn]][docker-deploy] | [![Deploy on AWS][aws-btn]][aws-deploy] | [![Deploy on GCP][gcp-btn]][gcp-deploy] | [![Deploy on DigitalOcean][do-btn]][do-deploy] | [![Deploy on Render.com][render-btn]][render-deploy] |
@@ -163,86 +163,86 @@ Mintplex Labs ve topluluk, AnythingLLM'i yerel olarak çalıştırmak için çe�
 | --- | --- | --- |
 | [![Deploy on Railway][railway-btn]][railway-deploy] | [![Deploy on RepoCloud][repocloud-btn]][repocloud-deploy] | [![Deploy on Elestio][elestio-btn]][elestio-deploy] |
 
-[veya Docker kullanmadan üretim ortamında AnythingLLM kurun →](../BARE_METAL.md)  
+[veya Docker kullanmadan üretim ortamında OnesLLM kurun →](../BARE_METAL.md)
 
-## Geliştirme İçin Kurulum  
+## Geliştirme İçin Kurulum
 
-- `yarn setup` → Uygulamanın her bileşeni için gerekli `.env` dosyalarını oluşturur (repo’nun kök dizininden çalıştırılmalıdır).  
-  - Devam etmeden önce bu dosyaları doldurun. **Özellikle `server/.env.development` dosyasının doldurulduğundan emin olun**, aksi takdirde sistem düzgün çalışmaz.  
-- `yarn dev:server` → Sunucuyu yerel olarak başlatır (repo’nun kök dizininden çalıştırılmalıdır).  
-- `yarn dev:frontend` → Ön yüzü yerel olarak çalıştırır (repo’nun kök dizininden çalıştırılmalıdır).  
-- `yarn dev:collector` → Belge toplayıcıyı çalıştırır (repo’nun kök dizininden çalıştırılmalıdır).  
+- `yarn setup` → Uygulamanın her bileşeni için gerekli `.env` dosyalarını oluşturur (repo’nun kök dizininden çalıştırılmalıdır).
+  - Devam etmeden önce bu dosyaları doldurun. **Özellikle `server/.env.development` dosyasının doldurulduğundan emin olun**, aksi takdirde sistem düzgün çalışmaz.
+- `yarn dev:server` → Sunucuyu yerel olarak başlatır (repo’nun kök dizininden çalıştırılmalıdır).
+- `yarn dev:frontend` → Ön yüzü yerel olarak çalıştırır (repo’nun kök dizininden çalıştırılmalıdır).
+- `yarn dev:collector` → Belge toplayıcıyı çalıştırır (repo’nun kök dizininden çalıştırılmalıdır).
 
-[Belgeler hakkında bilgi edinin](../server/storage/documents/DOCUMENTS.md)  
+[Belgeler hakkında bilgi edinin](../server/storage/documents/DOCUMENTS.md)
 
-[Vektör önbellekleme hakkında bilgi edinin](../server/storage/vector-cache/VECTOR_CACHE.md)  
+[Vektör önbellekleme hakkında bilgi edinin](../server/storage/vector-cache/VECTOR_CACHE.md)
 
-## Harici Uygulamalar ve Entegrasyonlar  
+## Harici Uygulamalar ve Entegrasyonlar
 
-_Bu uygulamalar Mintplex Labs tarafından yönetilmemektedir, ancak AnythingLLM ile uyumludur. Burada listelenmeleri bir onay anlamına gelmez._  
+_Bu uygulamalar Mintplex Labs tarafından yönetilmemektedir, ancak OnesLLM ile uyumludur. Burada listelenmeleri bir onay anlamına gelmez._
 
-- [Midori AI Alt Sistem Yöneticisi](https://io.midori-ai.xyz/subsystem/anythingllm/) - Docker konteyner teknolojisini kullanarak yapay zeka sistemlerini verimli bir şekilde dağıtmanın pratik bir yolu.  
-- [Coolify](https://coolify.io/docs/services/anythingllm/) - Tek tıklamayla AnythingLLM dağıtımı yapmanıza olanak tanır.  
-- [GPTLocalhost for Microsoft Word](https://gptlocalhost.com/demo/) - AnythingLLM’i Microsoft Word içinde kullanmanıza olanak tanıyan yerel bir Word eklentisi.
+- [Midori AI Alt Sistem Yöneticisi](https://io.midori-ai.xyz/subsystem/anythingllm/) - Docker konteyner teknolojisini kullanarak yapay zeka sistemlerini verimli bir şekilde dağıtmanın pratik bir yolu.
+- [Coolify](https://coolify.io/docs/services/anythingllm/) - Tek tıklamayla OnesLLM dağıtımı yapmanıza olanak tanır.
+- [GPTLocalhost for Microsoft Word](https://gptlocalhost.com/demo/) - OnesLLM’i Microsoft Word içinde kullanmanıza olanak tanıyan yerel bir Word eklentisi.
 
-## Telemetri ve Gizlilik  
+## Telemetri ve Gizlilik
 
-Mintplex Labs Inc. tarafından geliştirilen AnythingLLM, anonim kullanım bilgilerini toplayan bir telemetri özelliği içermektedir.  
+Mintplex Labs Inc. tarafından geliştirilen OnesLLM, anonim kullanım bilgilerini toplayan bir telemetri özelliği içermektedir.
 
-<details>  
-<summary><kbd>AnythingLLM için Telemetri ve Gizlilik hakkında daha fazla bilgi</kbd></summary>  
+<details>
+<summary><kbd>OnesLLM için Telemetri ve Gizlilik hakkında daha fazla bilgi</kbd></summary>
 
-### Neden?  
+### Neden?
 
-Bu bilgileri, AnythingLLM’in nasıl kullanıldığını anlamak, yeni özellikler ve hata düzeltmelerine öncelik vermek ve uygulamanın performansını ve kararlılığını iyileştirmek için kullanıyoruz.  
+Bu bilgileri, OnesLLM’in nasıl kullanıldığını anlamak, yeni özellikler ve hata düzeltmelerine öncelik vermek ve uygulamanın performansını ve kararlılığını iyileştirmek için kullanıyoruz.
 
-### Telemetriden Çıkış Yapma (Opt-Out)  
+### Telemetriden Çıkış Yapma (Opt-Out)
 
-Sunucu veya Docker `.env` ayarlarında `DISABLE_TELEMETRY` değerini "true" olarak ayarlayarak telemetriyi devre dışı bırakabilirsiniz. Ayrıca, uygulama içinde **Kenar Çubuğu > Gizlilik** bölümüne giderek de bu özelliği kapatabilirsiniz.  
+Sunucu veya Docker `.env` ayarlarında `DISABLE_TELEMETRY` değerini "true" olarak ayarlayarak telemetriyi devre dışı bırakabilirsiniz. Ayrıca, uygulama içinde **Kenar Çubuğu > Gizlilik** bölümüne giderek de bu özelliği kapatabilirsiniz.
 
-### Hangi Verileri Açıkça Takip Ediyoruz?  
+### Hangi Verileri Açıkça Takip Ediyoruz?
 
-Yalnızca ürün ve yol haritası kararlarını almamıza yardımcı olacak kullanım detaylarını takip ediyoruz:  
+Yalnızca ürün ve yol haritası kararlarını almamıza yardımcı olacak kullanım detaylarını takip ediyoruz:
 
-- Kurulum türü (Docker veya Masaüstü)  
-- Bir belgenin eklenme veya kaldırılma olayı. **Belgenin içeriği hakkında hiçbir bilgi toplanmaz**, yalnızca olayın gerçekleştiği kaydedilir. Bu, kullanım sıklığını anlamamıza yardımcı olur.  
-- Kullanılan vektör veritabanı türü. Hangi sağlayıcının daha çok tercih edildiğini belirlemek için bu bilgiyi topluyoruz.  
-- Kullanılan LLM türü. En popüler modelleri belirleyerek bu sağlayıcılara öncelik verebilmemizi sağlar.  
-- Sohbet başlatılması. Bu en sık gerçekleşen "olay" olup, projenin günlük etkinliği hakkında genel bir fikir edinmemize yardımcı olur. **Yalnızca olay kaydedilir, sohbetin içeriği veya doğası hakkında hiçbir bilgi toplanmaz.**  
+- Kurulum türü (Docker veya Masaüstü)
+- Bir belgenin eklenme veya kaldırılma olayı. **Belgenin içeriği hakkında hiçbir bilgi toplanmaz**, yalnızca olayın gerçekleştiği kaydedilir. Bu, kullanım sıklığını anlamamıza yardımcı olur.
+- Kullanılan vektör veritabanı türü. Hangi sağlayıcının daha çok tercih edildiğini belirlemek için bu bilgiyi topluyoruz.
+- Kullanılan LLM türü. En popüler modelleri belirleyerek bu sağlayıcılara öncelik verebilmemizi sağlar.
+- Sohbet başlatılması. Bu en sık gerçekleşen "olay" olup, projenin günlük etkinliği hakkında genel bir fikir edinmemize yardımcı olur. **Yalnızca olay kaydedilir, sohbetin içeriği veya doğası hakkında hiçbir bilgi toplanmaz.**
 
-Bu verileri doğrulamak için kod içinde **`Telemetry.sendTelemetry` çağrılarını** inceleyebilirsiniz. Ayrıca, bu olaylar günlük kaydına yazıldığı için hangi verilerin gönderildiğini görebilirsiniz (eğer etkinleştirilmişse). **IP adresi veya diğer tanımlayıcı bilgiler toplanmaz.** Telemetri sağlayıcısı, açık kaynaklı bir telemetri toplama hizmeti olan [PostHog](https://posthog.com/)‘dur.  
+Bu verileri doğrulamak için kod içinde **`Telemetry.sendTelemetry` çağrılarını** inceleyebilirsiniz. Ayrıca, bu olaylar günlük kaydına yazıldığı için hangi verilerin gönderildiğini görebilirsiniz (eğer etkinleştirilmişse). **IP adresi veya diğer tanımlayıcı bilgiler toplanmaz.** Telemetri sağlayıcısı, açık kaynaklı bir telemetri toplama hizmeti olan [PostHog](https://posthog.com/)‘dur.
 
 [Kaynak kodda tüm telemetri olaylarını görüntüle](https://github.com/search?q=repo%3AMintplex-Labs%2Fanything-llm%20.sendTelemetry\(&type=code)
 
 </details>
 
 
-## 👋 Katkıda Bulunma  
+## 👋 Katkıda Bulunma
 
-- Bir **issue** oluşturun.  
-- `<issue numarası>-<kısa ad>` formatında bir **PR (Pull Request)** oluşturun.  
-- Çekirdek ekipten **LGTM (Looks Good To Me)** onayı alın.  
+- Bir **issue** oluşturun.
+- `<issue numarası>-<kısa ad>` formatında bir **PR (Pull Request)** oluşturun.
+- Çekirdek ekipten **LGTM (Looks Good To Me)** onayı alın.
 
-## 🌟 Katkıda Bulunanlar  
+## 🌟 Katkıda Bulunanlar
 
-[![anythingllm contributors](https://contrib.rocks/image?repo=mintplex-labs/anything-llm)](https://github.com/mintplex-labs/anything-llm/graphs/contributors)  
+[![anythingllm contributors](https://contrib.rocks/image?repo=mintplex-labs/anything-llm)](https://github.com/mintplex-labs/anything-llm/graphs/contributors)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mintplex-labs/anything-llm&type=Timeline)](https://star-history.com/#mintplex-labs/anything-llm&Date)  
+[![Star History Chart](https://api.star-history.com/svg?repos=mintplex-labs/anything-llm&type=Timeline)](https://star-history.com/#mintplex-labs/anything-llm&Date)
 
-## 🔗 Diğer Ürünler  
+## 🔗 Diğer Ürünler
 
-- **[VectorAdmin][vector-admin]:** Vektör veritabanlarını yönetmek için hepsi bir arada GUI ve araç paketi.  
-- **[OpenAI Assistant Swarm][assistant-swarm]:** Tüm OpenAI asistanlarınızı tek bir ajan tarafından yönetilen bir yapay zeka ordusuna dönüştürün.  
+- **[VectorAdmin][vector-admin]:** Vektör veritabanlarını yönetmek için hepsi bir arada GUI ve araç paketi.
+- **[OpenAI Assistant Swarm][assistant-swarm]:** Tüm OpenAI asistanlarınızı tek bir ajan tarafından yönetilen bir yapay zeka ordusuna dönüştürün.
 
-<div align="right">  
+<div align="right">
 
-[![][back-to-top]](#readme-top)  
+[![][back-to-top]](#readme-top)
 
-</div>  
+</div>
 
----  
+---
 
-Telif Hakkı © 2025 [Mintplex Labs][profile-link]. <br />  
+Telif Hakkı © 2025 [Mintplex Labs][profile-link]. <br />
 Bu proje [MIT](../LICENSE) lisansı ile lisanslanmıştır.
 
 <!-- LINK GROUP -->

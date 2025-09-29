@@ -31,19 +31,6 @@ export default function SettingsButton() {
 
   return (
     <div className="flex w-fit">
-      <Link
-        to={paths.settings.interface()}
-        className="transition-all duration-300 p-2 rounded-full bg-theme-sidebar-footer-icon hover:bg-theme-sidebar-footer-icon-hover"
-        aria-label="Settings"
-        data-tooltip-id="footer-item"
-        data-tooltip-content="Open settings"
-      >
-        <Wrench
-          className="h-5 w-5"
-          weight="fill"
-          color="var(--theme-sidebar-footer-icon-fill)"
-        />
-      </Link>
     </div>
   );
 }

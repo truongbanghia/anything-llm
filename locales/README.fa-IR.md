@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <a href="https://anythingllm.com"><img src="https://github.com/Mintplex-Labs/anything-llm/blob/master/images/wordmark.png?raw=true" alt="AnythingLLM logo"></a>
+  <a href="https://anythingllm.com"><img src="https://github.com/Mintplex-Labs/anything-llm/blob/master/images/wordmark.png?raw=true" alt="OnesLLM logo"></a>
 </p>
 
 <div align='center'>
@@ -9,7 +9,7 @@
 </div>
 
 <p align="center" dir="rtl">
-    <b>AnythingLLM:</b> اپلیکیشن همه‌کاره هوش مصنوعی که دنبالش بودید.<br />
+    <b>OnesLLM:</b> اپلیکیشن همه‌کاره هوش مصنوعی که دنبالش بودید.<br />
     با اسناد خود چت کنید، از عامل‌های هوش مصنوعی استفاده کنید، با قابلیت پیکربندی بالا، چند کاربره، و بدون نیاز به تنظیمات پیچیده.
 </p>
 
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center" dir="rtl">
-👈 AnythingLLM برای دسکتاپ (مک، ویندوز و لینوکس)! <a href="https://anythingllm.com/download" target="_blank">دانلود کنید</a>
+👈 OnesLLM برای دسکتاپ (مک، ویندوز و لینوکس)! <a href="https://anythingllm.com/download" target="_blank">دانلود کنید</a>
 </p>
 
 <div dir="rtl">
@@ -52,13 +52,13 @@
 
 ### نمای کلی محصول
 
-AnythingLLM یک اپلیکیشن کامل است که در آن می‌توانید از LLM‌های تجاری آماده یا LLM‌های متن‌باز محبوب و راه‌حل‌های vectorDB برای ساخت یک ChatGPT خصوصی بدون محدودیت استفاده کنید که می‌توانید آن را به صورت محلی اجرا کنید یا از راه دور میزبانی کنید و با هر سندی که به آن ارائه می‌دهید، هوشمندانه گفتگو کنید.
+OnesLLM یک اپلیکیشن کامل است که در آن می‌توانید از LLM‌های تجاری آماده یا LLM‌های متن‌باز محبوب و راه‌حل‌های vectorDB برای ساخت یک ChatGPT خصوصی بدون محدودیت استفاده کنید که می‌توانید آن را به صورت محلی اجرا کنید یا از راه دور میزبانی کنید و با هر سندی که به آن ارائه می‌دهید، هوشمندانه گفتگو کنید.
 
-AnythingLLM اسناد شما را به اشیایی به نام `workspaces` تقسیم می‌کند. یک Workspace مانند یک رشته عمل می‌کند، اما با اضافه شدن کانتینرسازی اسناد شما. Workspaceها می‌توانند اسناد را به اشتراک بگذارند، اما با یکدیگر ارتباط برقرار نمی‌کنند تا بتوانید زمینه هر workspace را تمیز نگه دارید.
+OnesLLM اسناد شما را به اشیایی به نام `workspaces` تقسیم می‌کند. یک Workspace مانند یک رشته عمل می‌کند، اما با اضافه شدن کانتینرسازی اسناد شما. Workspaceها می‌توانند اسناد را به اشتراک بگذارند، اما با یکدیگر ارتباط برقرار نمی‌کنند تا بتوانید زمینه هر workspace را تمیز نگه دارید.
 </div>
 <div dir="rtl">
 
-## ویژگی‌های جذاب AnythingLLM
+## ویژگی‌های جذاب OnesLLM
 
 - 🆕 [**عامل‌های هوش مصنوعی سفارشی**](https://docs.anythingllm.com/agent/custom/introduction)
 - 🖼️ **پشتیبانی از چند مدل (هم LLMهای متن‌باز و هم تجاری!)**
@@ -109,7 +109,7 @@ AnythingLLM اسناد شما را به اشیایی به نام `workspaces` ت
 
 **مدل‌های Embedder:**
 
-- [AnythingLLM Native Embedder](/server/storage/models/README.md) (پیش‌فرض)
+- [OnesLLM Native Embedder](/server/storage/models/README.md) (پیش‌فرض)
 - [OpenAI](https://openai.com)
 - [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - [LocalAi (همه)](https://localai.io/)
@@ -119,7 +119,7 @@ AnythingLLM اسناد شما را به اشیایی به نام `workspaces` ت
 
 **مدل‌های رونویسی صوتی:**
 
-- [AnythingLLM Built-in](https://github.com/Mintplex-Labs/anything-llm/tree/master/server/storage/models#audiovideo-transcription) (پیش‌فرض)
+- [OnesLLM Built-in](https://github.com/Mintplex-Labs/anything-llm/tree/master/server/storage/models#audiovideo-transcription) (پیش‌فرض)
 - [OpenAI](https://openai.com/)
 
 **پشتیبانی TTS (تبدیل متن به گفتار):**
@@ -163,7 +163,7 @@ AnythingLLM اسناد شما را به اشیایی به نام `workspaces` ت
 
 <div dir="rtl">
 
-Mintplex Labs و جامعه کاربران، روش‌ها، اسکریپت‌ها و قالب‌های متعددی را برای اجرای AnythingLLM به صورت محلی نگهداری می‌کنند. برای مطالعه نحوه استقرار در محیط مورد نظر خود یا استقرار خودکار، به جدول زیر مراجعه کنید.
+Mintplex Labs و جامعه کاربران، روش‌ها، اسکریپت‌ها و قالب‌های متعددی را برای اجرای OnesLLM به صورت محلی نگهداری می‌کنند. برای مطالعه نحوه استقرار در محیط مورد نظر خود یا استقرار خودکار، به جدول زیر مراجعه کنید.
 </div>
 
 | Docker | AWS | GCP | Digital Ocean | Render.com |
@@ -176,7 +176,7 @@ Mintplex Labs و جامعه کاربران، روش‌ها، اسکریپت‌ه
 
 <div dir="rtl">
 
-[یا راه‌اندازی نمونه تولیدی AnythingLLM بدون Docker →](../BARE_METAL.md)
+[یا راه‌اندازی نمونه تولیدی OnesLLM بدون Docker →](../BARE_METAL.md)
 
 ## راه‌اندازی برای توسعه
 
@@ -192,15 +192,15 @@ Mintplex Labs و جامعه کاربران، روش‌ها، اسکریپت‌ه
 
 ## تله‌متری و حریم خصوصی
 
-AnythingLLM توسط Mintplex Labs Inc دارای ویژگی تله‌متری است که اطلاعات استفاده ناشناس را جمع‌آوری می‌کند.
+OnesLLM توسط Mintplex Labs Inc دارای ویژگی تله‌متری است که اطلاعات استفاده ناشناس را جمع‌آوری می‌کند.
 
 <details>
-<summary><kbd>اطلاعات بیشتر درباره تله‌متری و حریم خصوصی AnythingLLM</kbd></summary>
+<summary><kbd>اطلاعات بیشتر درباره تله‌متری و حریم خصوصی OnesLLM</kbd></summary>
 
 ### چرا؟
 
 <div dir="rtl">
-ما از این اطلاعات برای درک نحوه استفاده از AnythingLLM، اولویت‌بندی کار روی ویژگی‌های جدید و رفع اشکالات، و بهبود عملکرد و پایداری AnythingLLM استفاده می‌کنیم.
+ما از این اطلاعات برای درک نحوه استفاده از OnesLLM، اولویت‌بندی کار روی ویژگی‌های جدید و رفع اشکالات، و بهبود عملکرد و پایداری OnesLLM استفاده می‌کنیم.
 </div>
 
 ### غیرفعال کردن
