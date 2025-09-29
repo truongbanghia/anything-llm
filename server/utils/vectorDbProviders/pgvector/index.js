@@ -18,10 +18,10 @@ const PGVector = {
   connectionTimeout: 30_000,
   /**
    * Get the table name for the PGVector database.
-   * - Defaults to "anythingllm_vectors" if no table name is provided.
+   * - Defaults to "onesllm_vectors" if no table name is provided.
    * @returns {string}
    */
-  tableName: () => process.env.PGVECTOR_TABLE_NAME || "anythingllm_vectors",
+  tableName: () => process.env.PGVECTOR_TABLE_NAME || "onesllm_vectors",
 
   /**
    * Get the connection string for the PGVector database.
@@ -137,7 +137,7 @@ const PGVector = {
 
   /**
    * Validate the connection to the database and verify that the table does not already exist.
-   * so that anythingllm can manage the table directly.
+   * so that onesllm can manage the table directly.
    *
    * @param {{connectionString: string | null, tableName: string | null}} params
    * @returns {Promise<{error: string | null, success: boolean}>}
@@ -240,7 +240,7 @@ const PGVector = {
   },
 
   /**
-   * Check if the anythingllm embedding table exists in the database
+   * Check if the onesllm embedding table exists in the database
    * @returns {Promise<boolean>}
    */
   dbTableExists: async function () {
@@ -751,7 +751,7 @@ const PGVector = {
   },
 
   /**
-   * Reset the entire vector database table associated with anythingllm
+   * Reset the entire vector database table associated with onesllm
    * @returns {Promise<{reset: boolean}>}
    */
   reset: async function () {
